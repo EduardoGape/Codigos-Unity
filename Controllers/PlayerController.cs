@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ExampleClass : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     //movement speed in units per second
     private float movementSpeed = 5f;
