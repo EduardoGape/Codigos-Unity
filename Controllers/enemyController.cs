@@ -20,7 +20,5 @@ public class EnemyController : MonoBehaviour
         if(transform.position.x <position2.x){
             direction = 1;
         }
-
-        
     }
 }
